@@ -16,3 +16,6 @@ class test
 // include third.php
 require first . php;
 require second . php;
+
+//replace
+$obj = new first\test();
